@@ -1,0 +1,45 @@
+{
+	"name": "wandw-maps",
+	"title": "Wands & Wizards Maps",
+	"description": "Wands & Wizards Maps",
+	"author": "MadManNBlueBox",
+	"authors": ["Block Nessie"],
+	"url": "https://github.com/MadManNBlueBox/",
+	"readme": "",
+	"flags": {},
+	"version": "1.0",
+	"minimumCoreVersion": "9",
+	"compatibleCoreVersion": "9",
+	"packs": [
+		{
+			"name": "wandw-maps",
+			"label": "W&W Maps",
+			"system": "dnd5e",
+			"path": "./packs/wandw-maps.db",
+			"entity": "Scene",
+			"private": false,
+			"module": "wandw-maps"
+		}
+	],
+	"system": ["dnd5e"],
+	"dependencies": [
+		{
+			"name": "levels"
+		},
+        	{
+            		"name": "betterroofs"
+        	},
+        	{
+            		"name": "lib-wrapper"
+        	},
+        	{
+            		"name": "wall-height"
+        	}
+	],
+	"socket": false,
+	"manifest": "",
+	"download": "",
+	"protected": false,
+	"coreTranslation": false,
+	"library": false
+}
