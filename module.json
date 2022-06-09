@@ -4,8 +4,8 @@
 	"description": "Wands & Wizards Maps",
 	"author": "MadManNBlueBox",
 	"authors": ["Block Nessie"],
-	"url": "https://github.com/MadManNBlueBox/",
-	"readme": "",
+	"url": "https://github.com/MadManNBlueBox/wandw-maps",
+	"readme": "https://github.com/MadManNBlueBox/wandw-maps/blob/main/README.md",
 	"flags": {},
 	"version": "1.0",
 	"minimumCoreVersion": "9",
@@ -37,8 +37,8 @@
         	}
 	],
 	"socket": false,
-	"manifest": "",
-	"download": "",
+	"manifest": "https://github.com/MadManNBlueBox/wandw-maps/releases/download/1.0/module.json",
+	"download": "https://github.com/MadManNBlueBox/wandw-maps/releases/download/1.0/module.zip",
 	"protected": false,
 	"coreTranslation": false,
 	"library": false
